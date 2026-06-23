@@ -14,42 +14,47 @@ def fetch_configs():
             return []
 
         soup = BeautifulSoup(response.text, "html.parser")
-
-        # پیدا کردن متن تمام پیام‌ها
         messages = soup.find_all("div", class_="tgme_widget_message_text")
 
         configs = []
 
-        # استخراج دقیق تمام پروتکل‌ها با Regex
-        # این الگو کل لینک رو تا جایی که به پروتکل بعدی یا فاصله برسه جدا می‌کنه
-        pattern = re.compile(
-            r"(vless|vmess|ss|trojan)://[^(\s<>\"|vless|vmess|ss|trojan)]+"
-        )
+        # این الگو دقیقاً از شروع پروتکل تا اولین فضای خالی (مثل خط بعد یا فاصله) را جدا می‌کند
+        # این کار مانع ترکیب شدن متن فارسی خط بعد با خود کانفیگ می‌شود
+        pattern = re.compile(r"(vless|vmess|ss|trojan)://[^\s<>#\"|]+")
 
-        # بررسی پیام‌ها از آخر به اول (جدیدترین‌ها)
         for msg in reversed(messages):
             text = msg.get_text()
+            matches = pattern.finditer(text)
 
-            # پیدا کردن تمام کانفیگ‌های موجود در پیام جاری
-            matches = [
-                m.group(0) for m in pattern.finditer(text) if m.group(0)
-            ]
+            for match in matches:
+                clean_config = match.group(0).strip()
+                protocol = match.group(1)
 
-            for config in matches:
-                clean_config = config.strip()
+                # بازسازی بخش هشتگ (نام کانال) در صورت قطع شدن اتفاقی
+                # کانال معمولاً از هشتگ #@filembad استفاده می‌کند
+                if "#" not in clean_config:
+                    clean_config += "#%40filembad"
 
-                # حذف کاراکترهای مزاحم فارسی یا اموجی از انتهای کانفیگ
+                # تمیزکاری نهایی انتهای کانفیگ از کاراکترهای مزاحم فارسی یا نشانه‌ها
                 clean_config = re.sub(
                     r"[^a-zA-Z0-9:@/?=&%#._~+-]+$", "", clean_config
                 )
 
-                # اطمینان از اینکه کانفیگ خالی نیست و تکراری هم نیست
-                if clean_config and clean_config not in configs:
+                # فیلتر سخت‌گیرانه طول رشته برای حذف نمونه‌های ناقص (مثل vless://3)
+                if len(clean_config) < 40:
+                    continue
+
+                # اعتبارسنجی ساختاری پروتکل‌های غیر vmess (باید شامل علامت @ باشند)
+                if protocol in ["vless", "trojan", "ss"] and "@" not in clean_config:
+                    continue
+
+                # جلوگیری از ورود کانفیگ‌های تکراری به لیست
+                if clean_config not in configs:
                     configs.append(clean_config)
 
-                # اگر به ۵۰ تا رسیدیم، متوقف شو
+                # متوقف شدن پروسه به محض جمع‌آوری ۵۰ کانفیگ تازه
                 if len(configs) >= 50:
-                    return configs[:50]
+                    return configs
 
         return configs
     except Exception as e:
@@ -62,15 +67,17 @@ def main():
     new_configs = fetch_configs()
 
     if not new_configs:
-        print("No configs found or error occurred. Keeping the old file.")
+        print("No healthy configs found. Keeping the old file.")
         return
 
-    # ذخیره کانفیگ‌ها؛ هر کانفیگ دقیقاً در یک ردیف مجزا
+    # ذخیره کانفیگ‌ها؛ کاملاً تفکیک‌شده و ردیف به ردیف
     with open("subscription.txt", "w", encoding="utf-8") as f:
         for config in new_configs:
-            f.write(config + "\n")  # این \n باعث میشه بره خط بعدی
+            f.write(config + "\n")
 
-    print(f"Successfully saved {len(new_configs)} unique configs line by line.")
+    print(
+        f"Successfully saved {len(new_configs)} HEALTHY unique configs line by line."
+    )
 
 
 if __name__ == "__main__":
