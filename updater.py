@@ -53,7 +53,7 @@ def fetch_configs():
                     configs.append(clean_config)
 
                 # متوقف شدن پروسه به محض جمع‌آوری ۵۰ کانفیگ تازه
-                if len(configs) >= 50:
+                if len(configs) >= 100:
                     return configs
 
         return configs
