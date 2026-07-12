@@ -1,3 +1,5 @@
+vless://661994e2-a56d-4f70-be54-ad15cd70d0a6@ger2.shireporcharb.com:1545?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=cHVE_uqATTcPEAHJu__zNSCs_OSzTtkFwpOgCvzRAgU&sid=f515fafc12cf8371&type=tcp&headerType=none#%40filembad
+vless://661994e2-a56d-4f70-be54-ad15cd70d0a6@ger3.shireporcharb.com:1546?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=noIjTschfBktDGXwIGtQpeGmwOu1MsQvJT5OOP4jHxE&sid=a2d0e560a23fe646&type=tcp&headerType=none#%40filembad
 vless://7d156e29-0505-483b-b9df-8a2c0a5b392f@65.109.215.50:35491?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#%40filembad
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#%40filembad
@@ -37,6 +39,3 @@ vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?encryption=non
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#%40filembad
 vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:443?encryption=none&security=none&type=grpc#%40filembad
 vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:8080?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://2b61a792-15c7-4cc1-a385-a9af1cc9a7c3@tk1.degeristir.ir:443?security=reality&encryption=none&pbk=nTQpZ24z-O7ok4J2hIU2QhFTY67h1B3uXMGEsoWts3U&headerType=&fp=qq&spx=%2FaWIJR00FB86pRA7&type=tcp&sni=play.google.com&sid=066ac08a9e#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.226.13:22222?security=&encryption=none&headerType=none&type=tcp#%40filembad
-vless://729b1131-ac87-4ad1-973f-14c24d30a655@tun.mamadhpbot.ir:2097?security=reality&encryption=none&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&host=PuLaVPN.net&headerType=none&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&sni=play.google.com&sid=0020b2c2d7f87920#%40filembad
