@@ -1,4 +1,7 @@
+vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?encryption=none&security=none&type=tcp&headerType=none#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.211.137:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#%40filembad
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&type=ws&path=%2F&host=download.pusytroller.gq#%40filembad
 vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@141.164.34.194:443?security=reality&encryption=none&pbk=2Xjlg3G-jNhmaS-1KLG6gNQlhVfGTdVExHF9ljW5ISI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=889dad4baac2436f#%40filembad
 vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.90.61.138:443?security=reality&encryption=none&pbk=83Ql1vp4_lvutx22YSJW6ZBZxdMGVev5eDWM8-wB-gk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=f717aafc9dfcc96e#%40filembad
 vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.255.123.232:443?security=reality&encryption=none&pbk=zMaV6LBSLVX1ksUF67CwQCvNtcVlHkGP_85aVmkpxXk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.grab.com&sid=4929ddcb86e785f7#%40filembad
@@ -39,7 +42,3 @@ vless://09a7e3d4-f952-4754-a4d7-8c34f36c1b0a@104.253.79.223:443?encryption=none&
 trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&type=grpc&sni=chi.yahoo.com#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.165.203:22224?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://14f6b122-b704-4a9d-b731-cec02ed47570@torob.com.nyanners.ir:443?security=reality&encryption=none&pbk=LEovRWrqPmbgEc1SaykRhrs_JffXIuhhxx2E23cqamQ&headerType=none&fp=chrome&spx=%2FoPwbpgYFaK1bzkX&type=tcp&sni=www.yahoo.com&sid=d004d248fb2dcf#%40filembad
-vless://6fa9f6ae-877b-4858-b128-a8377fd9038b@ru.themesh.site:443?security=reality&encryption=none&pbk=zA-R_HtKJR1Hb0c1KXA3Yxh1TH_SPi1oV6cDfWURdQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.themesh.site&sid=d4f1c403150d9964#%40filembad
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.136.11:8090?encryption=none&security=none&type=ws&host=rukr.speedload.ru&path=%2Fws#%40filembad
-vless://9928c26a-b3f0-424c-b836-3d6ccfbf7881@91.107.191.72:1105?encryption=none&flow=xtls-rprx-vision&security=reality&sni=android.clients.google.com&fp=chrome&pbk=lDF1B7Gx-QRvgAAeRVDc1eeIpc5SDBFFGm_rckxTal0&sid=8b7794998c996e&spx=%2Ff89c60403f16ffd&type=tcp&headerType=none#%40filembad
-vless://d7b8d855-352f-44fd-a20f-7e8ff06d0f66@31.56.146.93:8443?security=reality&encryption=none&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#%40filembad
