@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@129.151.81.122:61312#%40filembad
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145?#%40filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ==@92.5.238.164:45819#%40filembad
+vless://70e63e1e-08fc-4c8f-885f-ff55b2e57288@185.143.232.122:80?type=ws&encryption=none&path=/news&host=out11.pasargardnet.ir&security=none#%40filembad
+vless://70e63e1e-08fc-4c8f-885f-ff55b2e57288@185.143.232.122:80?type=ws&encryption=none&path=/news&host=out10.pasargardnet.ir&security=none#%40filembad
 vless://ed2f2ae0-b897-45fe-9807-acabcff4371a@37.156.47.242:8080?security=reality&encryption=none&pbk=MYlH37mavAUEvPJJFGgdLvAytETP0CuXq0_iO7WNO1U&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&fp=chrome&spx=%2Fa80bc758af3f28f&type=tcp&sni=mbp.yimg.com&sid=b292f6488eae95ae#%40filembad
 vless://476be63b-4537-4b05-91b8-066c5e5833e4@45.39.230.145:28759?security=reality&encryption=none&pbk=IenQk4fZZepVAEZpqXO-RHOyXH9JrsAEm-fRsBgOFQk&headerType=none&fp=chrome&spx=%2F611cef0c404be30&type=tcp&sni=www.amazonaws-china.com&sid=2194495d#%40filembad
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#%40filembad
@@ -50,4 +55,3 @@ vless://6bfcc22f-c80f-481b-b82b-bf28ed3e9f82@91.107.148.158:8080?type=tcp&encryp
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.182:2083?encryption=none&security=reality&sni=www.google.com&fp=edge&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c&type=grpc&serviceName=grpc&mode=gun#%40filembad
 vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#%40filembad
 vless://a187888d-a66e-4151-89b0-1667c68bacb2@45.135.194.215:10101?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@54.37.6.119:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#%40filembad
