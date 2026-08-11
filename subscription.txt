@@ -1,3 +1,6 @@
+vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNTcxZjc2Mi0wM2FmLTRjMzAtOGViOS02NjUyMTAyZTdjZDMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9➖➖➖➖➖➖➖➖➖➖➖➖📌#%40filembad
+ss://YWVzLTI1Ni1nY206TjJGbU9HVXhPRGN4WTJZeE1UZzRaVGd3TWpreU1EWTVaV0ppWXpReg@193.176.242.55:9118?prefix=%16%03%01%00%C2%A8%01%01#%40filembad
+ss://YWVzLTI1Ni1nY206eXB2bTlyZ0I4YmdYQTVPZg@194.87.10.173:8388#%40filembad
 vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?security=reality&encryption=none&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=d6c3c9#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#%40filembad
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.4.20:13868?security=reality&encryption=none&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.epicgames.com&sid=e852dc#%40filembad
@@ -29,11 +32,3 @@ vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=no
 vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?encryption=none&security=reality&sni=status.play.google.com&fp=ios&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&sid=49bcf0de6392f0&spx=%2F&type=xhttp&host=status.play.google.com&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%224194304-8388608%22%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22seqPlacement%22%3A%22query%22%2C%22uplinkChunkSize%22%3A%2232768-65536%22%7D#%40filembad
 vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8080?security=&encryption=none&headerType=&type=tcp#%40filembad
 vless://bb74b833-eb41-440f-b15e-5539bc7792b2@200.165.228.131:443?security=&encryption=none&headerType=&type=tcp#%40filembad
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#%40filembad
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#%40filembad
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?flow=xtls-rprx-vision&type=tcp&fp=chrome&headerType=none&security=reality&encryption=none&sni=luminous-vortex.cdn.cachefleet.com&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M#%40filembad
-vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8880?security=&encryption=none&headerType=&type=tcp#%40filembad
-vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8443?security=&encryption=none&headerType=&type=tcp#%40filembad
-vless://644d7311-8b06-4cfc-89bc-3c83898f55b5@140.233.177.21:38134?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
