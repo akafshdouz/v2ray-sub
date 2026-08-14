@@ -1,4 +1,8 @@
 vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%40filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.225.240:61312#%40filembad
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.114.204:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#%40filembad
@@ -26,8 +30,3 @@ vless://51a8a6c5-c0c0-4af6-8546-254c90f21736@193.39.9.240:500?encryption=none&ex
 vless://51a8a6c5-c0c0-4af6-8546-254c90f21736@193.39.9.240:1200?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=m8hOnhxPNmdXtfOky4MHI9FhArP3qqfH7lxcopcQfQA&security=reality&sid=d2e98c9d0cf7&sni=www.intel.com&spx=%2Fupr4rVb5uhDzQx6&type=xhttp&x_padding_bytes=100-1000#%40filembad
 vless://75ddbcc7-ba82-4c74-a333-908dd65fe100@188.212.96.126:2443?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://75ddbcc7-ba82-4c74-a333-908dd65fe100@188.212.96.126:2443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.250.13:22224?encryption=none&security=none&type=tcp#%40filembad
-vless://d8523317-503e-43ad-b2c3-e5f77d725848@31.76.46.138:20422?security=reality&encryption=none&pbk=ZUQTvwYk_hDqSrw36uc18MkeEIXIGZZGsf5XWVwdqAQ&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=90#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.250.13:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.250.68:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.250.68:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
