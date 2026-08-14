@@ -1,3 +1,4 @@
+vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?path=%2Fws&security=none&encryption=none&host=soft-shadow-1e33.xicav73335.workers.dev&type=ws#%40filembad
 vless://314d822a-3907-4e4c-9264-76a9f7e56029@5.75.205.74:7190?security=reality&encryption=none&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&headerType=none&fp=qq&type=tcp&sni=play.googleapis.com&sid=7398e0c72f7d5c0e#%40filembad
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@5.255.112.81:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.250.13:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#%40filembad
@@ -31,11 +32,3 @@ vless://4e7eb9d5-022a-4b0a-ba37-2d1be458947b@31.77.203.95:443?path=%2F&security=
 vless://1b05ccfc-2537-4844-a505-3e8d644ac486@46.8.229.202:443?security=reality&encryption=none&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=04a72ee1672dd21a#%40filembad
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#%40filembad
 vless://75ddbcc7-ba82-4c74-a333-908dd65fe100@188.212.96.126:2443?security=none&headerType=none&encryption=none&type=tcp#%40filembad
-vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%40filembad
-vless://1aee491c-47c2-4228-9b3d-9c2a3f18c383@193.39.9.240:500?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=Pa-muVRBNhTAVzh3JQKpTWlnWgc1MZ3nu_sZ31f9dXw&fp=chrome&spx=%2FWp56R9fSMC9Gmyn&type=xhttp&sni=www.intel.com&sid=54c8b4#%40filembad
-vless://6c8a3588-ff53-473f-b15e-87ddf7f3e3ad@172.197.218.137:445?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://02ecbb81-7e6b-485d-be68-d1f78f864210@31.56.222.59:19869?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.114.204:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.250.13:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.114.204:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
