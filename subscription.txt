@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443?#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40filembad
 vless://cb794985-2800-4d88-af43-018dcb678f2f@94.237.89.10:3389?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%40filembad
