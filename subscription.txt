@@ -1,3 +1,6 @@
+vless://xBotCenter@[2a13:7c00:3:14:f816:3eff:febb:19b3]:8080?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://e2fc52d2-ed07-4c19-b74f-13846261935d@tctuning.python100.ir:58723?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@144.31.4.234:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=direct-nl.bachidze.com&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&type=tcp&headerType=none#%40filembad
 vless://0f0ae6f4-0108-4b14-82e0-0d10cdad7a3f@bpi.ir:80?path=%2F&security=&encryption=none&host=fi1.rexcimafi.ir&type=ws#%40filembad
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#%40filembad
 vless://b5c32203-8554-47f4-90dd-1748b6bb78e7@a4743b8fe92984d5.tunde.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#%40filembad
@@ -23,8 +26,3 @@ vless://0522382d-bdb6-4756-a15d-196805b806b2@mui.firzav.ir:38465?encryption=mlke
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#%40filembad
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?security=reality&encryption=none&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=70ab6d813e#%40filembad
 vless://88b744bb-8ac7-484e-a376-136193452a2c@72.56.241.230:443?mode=gun&security=reality&encryption=none&authority=Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=SCQ-mhDUvmeQzJvctQYDDSha1R_rggGFkWK_9IRuvH4&type=grpc&serviceName=api.v1.StreamService&sni=max.ru&sid=aabbccdd#%40filembad
-vless://1ebaca17-104a-4a77-92b4-f2e7f3619474@deara.moon-night.ir:443?security=reality&encryption=none&pbk=dMBDL7ry94pavIxYmzimeyaCqor6fUNb0v3dzHif9xY&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e64e9f5eefbffc15#%40filembad
-vmess://eyJhZGQiOiJObHMxLnplbG5vcmEuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5ldGhlcmxhbmQud2V4cHVrLmlyIiwiaWQiOiIyNDFkOTJjZC0zNGE5LTRlNGItYmVkNC0yYmVhNGQyYjVmYmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjY0NTg2IiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9🔸#%40filembad
-vless://0522382d-bdb6-4756-a15d-196805b806b2@mui.firzav.ir:46099?encryption=mlkem768x25519plus.native.0rtt.c0cVO78nHndxd7wo6c8s8bvFYTDn3I2VBhMdx4eLiGI&security=none&type=tcp&headerType=none#%40filembad
-vmess://eyJhZGQiOiJObHMxLnplbG5vcmEuaXIiLCJhaWQiOiIwIiwiaG9zdCI6Im5ldGhlcmxhbmQud2V4cHVrLmlyIiwiaWQiOiIyNDFkOTJjZC0zNGE5LTRlNGItYmVkNC0yYmVhNGQyYjVmYmEiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo2NDU4NiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9🔸#%40filembad
-ss://YWVzLTI1Ni1nY206bjhoYmh6ZGFnajFvN20wdg@ge.duravexv.ir:1020?type=tcp#%40filembad
