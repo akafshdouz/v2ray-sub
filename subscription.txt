@@ -1,3 +1,15 @@
+vmess://eyJhZGQiOiIxODUuMTkuMzMuMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWRjNmVjMmEtODA5OC00ODJiLWIwN2MtMDVlMGM4YWFkNzg5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1ODgxOCIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==🔸#%40filembad
+vmess://eyJhZGQiOiIxODUuMTkuMzMuMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWRjNmVjMmEtODA5OC00ODJiLWIwN2MtMDVlMGM4YWFkNzg5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1Mzg0MiIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==➖➖➖➖➖➖➖➖➖➖➖➖📌#%40filembad
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://886dd025-1864-4c41-ac16-d81617de9b92@18.217.105.95:8080?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:30079?security=none&type=tcp&encryption=none#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?&type=tcp&headerType=none&path=%2F#%40filembad
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#%40filembad
+vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:33477?&type=tcp&headerType=none&path=%2F#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22222?security=none&type=tcp#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.140.13:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22223?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://3e16033f-71d8-417b-abea-7756253f3c3d@894b83d7b0eed7de.tunvi.w-ert.org:448?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#%40filembad
 ss://YWVzLTI1Ni1nY206TWpZeE5UTTFZemsyWmpabU1EWXdOekUzTkRVelpqVm1OVFF3WTJNeg@37.32.30.203:11116?prefix=%16%03%01%00%C2%A8%01%01#%40filembad
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#%40filembad
@@ -9,7 +21,6 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?secu
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#%40filembad
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#%40filembad
 ss://YWVzLTI1Ni1nY206TURBellUQmpaVGsyTUdFNVptVTRNVEJoT0ROa01HVTRZV1EwTWprMg@188.121.123.28:11116?prefix=%16%03%01%00%C2%A8%01%01#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22223?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22222?security=&encryption=none&headerType=none&type=tcp#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVk1saHZLODJUbzFGR3N5@20.166.51.228:443#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22223?security=&encryption=none&headerType=none&type=tcp#%40filembad
@@ -29,13 +40,3 @@ vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:30079?security=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22224?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.81:22222?security=&encryption=none&headerType=none&type=tcp#%40filembad
-vmess://eyJhZGQiOiIxOTUuMjYuMjYuMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjJmOTM4YTUtY2ExMS00ZTA0LWFlZjUtMDVhMjk3NTQ0OTE2IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjY3OSIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==🔸#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22222?encryption=none&security=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.214.179:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?encryption=none&security=reality&sni=storage-p2.googleapis.com&fp=edge&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&sid=73da8baa63f8d537&type=tcp&headerType=none#%40filembad
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=none&type=tcp#%40filembad
-vless://4dd86f78-8202-42c2-89b6-801fd29daf45@e29181f3ebfce73d.tunvi.w-ert.org:42924?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://fb26530b-c9ca-4bb2-b726-6cddfa3afe66@appsj4.87544899.xyz:443?security=reality&encryption=none&pbk=k7hxoilujF3OuiyJpxpVbRJ-XdOxJ2giDeqDTvghgXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bod.changiairport.com&sid=c72dc3a7e1da#%40filembad
-vless://fb26530b-c9ca-4bb2-b726-6cddfa3afe66@vu1us4xuhv387.87544899.xyz:443?security=reality&encryption=none&pbk=7jzzCQ4KAUmRpX0Kota4NWk4FEv2XPB1HQNxHZy0OUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maps.apple.com&sid=ada5a37d#%40filembad
-vless://fb26530b-c9ca-4bb2-b726-6cddfa3afe66@vu2us97h.87544899.xyz:443?security=reality&encryption=none&pbk=kCYu5PbOfpqpetoFkUV0weDpxdeCN0UWRcL6mZtf6xc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maps.apple.com&sid=58f26f1ff75e9031#%40filembad
